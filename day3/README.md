@@ -6,7 +6,7 @@
 - Multiple If Statements in Succession
 - Logical Operators
 ## Treasure Island
-Try:
-https://replit.com/@VladyslavVlasen/treasure-island-start
 ![day03](https://user-images.githubusercontent.com/98851253/154304693-a3aa3a5a-e8f3-46b8-bcea-6f0884aad99c.gif)
 
+Try:
+https://replit.com/@VladyslavVlasen/treasure-island-start
