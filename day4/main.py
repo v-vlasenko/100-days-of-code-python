@@ -1,4 +1,3 @@
-# Go to README.md to check out exercise description
 import random
 
 rock = '''
