@@ -27,7 +27,7 @@ left_right = input("Do you turn left or right?\n").lower()
 if left_right == "left":
   swim_or_wait = input("Wanna swim or better wait?\n").lower()
   if swim_or_wait == "wait":
-    which_door = input("Which door do you choose?\n").lower()
+    which_door = input("Which door do you choose: Red, Blue or Yellow?\n").lower()
     if which_door == "red":
       print("Burned by fire. Game over.")
     elif which_door == "blue":
