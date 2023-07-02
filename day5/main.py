@@ -29,5 +29,4 @@ for symbol in range(0, nr_numbers):
 
 randomized_password = "".join(random.sample(password,len(password)))
 
-print(password)
-print(randomized_password)
+print(f"Here is your strong password: {randomized_password}")
