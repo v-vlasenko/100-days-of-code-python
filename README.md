@@ -10,3 +10,4 @@
 - [Day 3:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day3) Control Flow and Logical Operators
 - [Day 4:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day4) Randomisation and Python Lists
 - [Day 5:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day5) Python Loops
+- [Day 6:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day6) Python Functions & Karel
