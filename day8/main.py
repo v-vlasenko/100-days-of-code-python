@@ -43,6 +43,7 @@ while continue_cypher:
             print("Goodbye.")
         else:
             continue_cypher = True
+    #if user entered something else than 'decode' or 'encode:
     else:
         continue_cypher = False
         print("Goodbye!")
