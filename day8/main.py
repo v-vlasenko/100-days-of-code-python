@@ -33,6 +33,7 @@ while continue_cypher:
 
         # if the user enters a shift that is greater than the number of letters in the alphabet:
         shift %= 26
+                
         caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
         continue_or_no = input(
             "Type 'yes' if you want to go again. Otherwise type 'no'. \n")
