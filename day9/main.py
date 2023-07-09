@@ -6,14 +6,14 @@ def cls():
 from art import logo
 
 print(logo)
-print("Welcome to the secret auction program.")
+print("Welcome to the secret auction program. \n")
 
 continue_auction = True
 bids = {}
 
 while continue_auction:
     name = input("What is your name?: ")
-    bid = input("What is your bid?: $")
+    bid = int(input("What is your bid?: $"))
 
     # fill the dictionary with name and bid
     bids[name] = bid
@@ -24,6 +24,8 @@ while continue_auction:
     if any_other_bidders == 'yes':
         #clear the screen
         cls()
+        print(logo)
+        print("Welcome to the secret auction program. \n")
     elif any_other_bidders == 'no':
         winner = name
         print(f"The winner is {winner} with a bid of ${max_bid}. ")
