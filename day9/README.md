@@ -6,4 +6,4 @@
 ## The Secret Auction Program
 Run in browser: https://replit.com/@VladyslavVlasen/blind-auction-start#main.py
 
-![day09](https://user-images.githubusercontent.com/98851253/154522091-bcd0d5fc-70f0-4d04-adcf-276bafbeb69f.gif)
+![day09](https://github.com/v-vlasenko/100-days-of-code-python/assets/22979648/6edd85b8-5925-4597-9722-ca9a3196b361)
