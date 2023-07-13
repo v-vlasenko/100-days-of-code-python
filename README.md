@@ -14,3 +14,4 @@
 - [Day 7:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day7) Hangman
 - [Day 8:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day8) Function Parameters & Caesar Cipher
 - [Day 9:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day9) Dictionaries, Nesting and the Secret Auction
+- [Day 10:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day10) Functions with Outputs
