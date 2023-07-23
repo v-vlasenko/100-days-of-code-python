@@ -18,3 +18,4 @@
 - [Day 11:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day11) The Blackjack Capstone Project
 - [Day 12:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
 - [Day 13:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
+- [Day 14:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
