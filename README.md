@@ -19,3 +19,5 @@
 - [Day 12:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
 - [Day 13:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
+## 🔧 Intermediate
+- [Day 15:](https://github.com/phillipai/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
