@@ -1,6 +1,7 @@
 .idea
 .DS_Store
 .huskyrc.json
+.venv
 out
 log.log
 **/node_modules
