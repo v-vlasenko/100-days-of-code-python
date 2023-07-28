@@ -21,3 +21,4 @@
 - [Day 14:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
 ## 🔧 Intermediate
 - [Day 15:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
