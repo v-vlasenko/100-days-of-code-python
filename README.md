@@ -21,6 +21,7 @@
 - [Day 14:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
 ## 🔧 Intermediate
 - [Day 15:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
-- [Day 16:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
+- [Day 16:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day16) Object-Oriented Programming (OOP)
 - [Day 17:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day18) Turtle & the Graphical User Interface (GUI)
+- [Day 19:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
