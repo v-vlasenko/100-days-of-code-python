@@ -3,4 +3,5 @@
 - Class Inheritance
 - How to Slice Lists & Tuples in Python
 ## Snake Game Part 2
-![2023-08-04_23-50-45 (1)](https://github.com/v-vlasenko/100-days-of-code-python/assets/22979648/0f0d7a84-c381-45a6-a837-1b45a452f7cd)
+![2023-08-04_23-53-27 (1)](https://github.com/v-vlasenko/100-days-of-code-python/assets/22979648/231575f5-4f4f-45a6-99b6-5ffbbe158803)
+
