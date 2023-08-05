@@ -27,3 +27,4 @@
 - [Day 19:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day20) Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
