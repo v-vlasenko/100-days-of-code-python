@@ -35,3 +35,4 @@
 - [Day 27:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day27) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day29) Building a Password Manager GUI App with Tkinter
+- [Day 30:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
