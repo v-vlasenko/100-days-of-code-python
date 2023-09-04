@@ -39,3 +39,4 @@
 - [Day 31:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day31) Flash Card App Capstone Project
 ## 👨🏻‍💻 Intermediate+
 - [Day 32:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Day 33:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
