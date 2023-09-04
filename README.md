@@ -37,3 +37,5 @@
 - [Day 29:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day29) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day31) Flash Card App Capstone Project
+## 👨🏻‍💻 Intermediate+
+- [Day 32:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
