@@ -4,4 +4,5 @@
 - Using API to Get the News Articles
 - Using API to Send Telegram Alerts/Messages
 ## Stock Trading News Alert
-![RPReplay_Final1694507548 (1)](https://github.com/v-vlasenko/100-days-of-code-python/assets/22979648/6790acf8-faa6-4316-8e2f-000625577beb)
+![RPReplay_Final1694507548 (2)](https://github.com/v-vlasenko/100-days-of-code-python/assets/22979648/f8561450-49a4-4f1d-acba-d921834d4d38)
+
