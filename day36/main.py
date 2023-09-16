@@ -53,7 +53,7 @@ if abs(diff_percent) > 1:
     news_response = requests.get(NEWS_ENDPOINT, params=news_params)
     articles = news_response.json()["articles"]
     three_articles = articles[:3]
-    formatted_articles = [f"{STOCK_NAME}: {up_down}{diff_percent}%\nHeadline: {article['title']}. " \
+    formatted_articles = [f"{STOCK_NAME}: {up_down}{diff_percent}%\nHeadline: {article['title']}. " 
                           f"\nBrief: {article['description']}" for article in three_articles]
     for article in range(3):
         time.sleep(1)
