@@ -14,7 +14,7 @@ sheet_data = data_manager.get_destination_data()
 
 if sheet_data[0]["iataCode"] == "":
     city_names = [row["city"] for row in sheet_data]
-    data_manager.city_codes = flight_search.get_destination_codes(city_names)
+    data_manager.city_codes = flight_search.get_destination_code(city_names)
     data_manager.update_destination_codes()
     sheet_data = data_manager.get_destination_data()
 
@@ -45,13 +45,16 @@ for destination_code in destinations:
         emails = [row["email"] for row in users]
         names = [row["firstName"] for row in users]
 
-        message = f"Low price alert! Only £{flight.price} to fly from {flight.origin_city}-{flight.origin_airport} to {flight.destination_city}-{flight.destination_airport}, from {flight.out_date} to {flight.return_date}."
+        message = f"Low price alert! Only £{flight.price} " \
+                  f"to fly from {flight.origin_city}-{flight.origin_airport} " \
+                  f"to {flight.destination_city}-{flight.destination_airport}, " \
+                  f"from {flight.out_date} " \
+                  f"to {flight.return_date}."
 
         if flight.stop_overs > 0:
             message += f"\nFlight has {flight.stop_overs} stop over, via {flight.via_city}."
 
-        link = f"https://www.google.co.uk/flights?hl=en#flt={flight.origin_airport}.{flight.destination_airport}.{flight.out_date}*{flight.destination_airport}.{flight.origin_airport}.{flight.return_date}"
+        link = f"https://www.google.co.uk/flights?hl=en#flt={flight.origin_airport}.{flight.destination_airport}" \
+               f".{flight.out_date}*{flight.destination_airport}.{flight.origin_airport}.{flight.return_date}"
         
         notification_manager.send_emails(emails, message, link)
-
-

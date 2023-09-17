@@ -7,6 +7,7 @@ SHEETY_USERS_ENDPOINT = "https://api.sheety.co/*********************************
 class DataManager:
 
     def __init__(self):
+        self.customer_data = None
         self.destination_data = {}
 
     def get_destination_data(self):
