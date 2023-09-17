@@ -46,3 +46,4 @@
 - [Day 37:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day37) Habit Tracking Project: API Post Requests & Headers
 - [Day 38:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day38) Workout Tracking Using Google Sheets
 - [Day 39:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day39) Capstone Part 1: Flight Deal Finder
+- [Day 40:](https://github.com/v-vlasenko/100-days-of-code-python/tree/main/day40) Capstone Part 2: Flight Club
